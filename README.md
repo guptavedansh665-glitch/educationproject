@@ -3,7 +3,7 @@
 > **Resilient, Offline-First Multilingual Learning Platform for Rural Punjab Schools**
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
-[![PSEB Aligned](https://img.shields.io/badge/Curriculum-PSEB_Class_1--10-blue.svg)](#-curriculum--languages)
+[![PSEB Aligned](https://img.shields.io/badge/Curriculum-PSEB_Class_1--10-blue.svg)](#-supported-languages)
 [![Offline First](https://img.shields.io/badge/Architecture-Offline--First_PWA-green.svg)](#-key-features)
 
 ---
@@ -33,7 +33,7 @@ It provides an offline-first, Gurmukhi-native digital learning platform aligned 
 | :--- | :--- | :--- |
 | **ਪੰਜਾਬੀ (Punjabi)** | Gurmukhi (ਗੁਰਮੁਖੀ) | **Primary Medium** (Full UI, dialect audio, phonetic keypad) |
 | **English** | Latin | **STEM Bridge** (Dual toggles, scientific glossary) |
-| **हिन्दी (Hindi)** | Devanagari (देवनागरी) | **Tertiary Curriculum** (PSEB Hindi literature & grammar) |
+| **हिन्दी (Hindi)** | Devanagari (देवਨਾਗਰੀ) | **Tertiary Curriculum** (PSEB Hindi literature & grammar) |
 
 ---
 
@@ -51,8 +51,8 @@ It provides an offline-first, Gurmukhi-native digital learning platform aligned 
 
 ### 1. Clone & Configure
 ```bash
-git clone https://github.com/guptavedansh665-glitch/ASD_Workshop_1.git pindvidya
-cd pindvidya
+git clone https://github.com/guptavedansh665-glitch/educationproject.git
+cd educationproject
 cp .env.example .env
 ```
 
