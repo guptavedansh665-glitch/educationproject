@@ -1,0 +1,55 @@
+{
+  "quizzes": [
+    {
+      "id": "quiz-math-c3-01",
+      "lessonId": "math-c3-01",
+      "titlePa": "ਜੋੜ ਅਤੇ ਸਥਾਨਕ ਮੁੱਲ ਪਰਖ",
+      "titleEn": "Addition & Place Value Check",
+      "questions": [
+        {
+          "questionId": "q1",
+          "promptPa": "ਜੇਕਰ ਰਮਨ ਕੋਲ 18 ਪੈਨਸਿਲਾਂ ਹਨ ਅਤੇ ਉਸਦੀ ਭੈਣ ਕੋਲ 12 ਹਨ, ਤਾਂ ਕੁੱਲ ਕਿੰਨੀਆਂ ਪੈਨਸਿਲਾਂ ਹਨ?",
+          "promptEn": "If Raman has 18 pencils and his sister has 12, what is the total?",
+          "voicePromptUrl": "/audio/quizzes/q1-math-c3.mp3",
+          "options": [
+            { "id": "a", "textPa": "੨੮ (28)", "isCorrect": false },
+            { "id": "b", "textPa": "੩੦ (30)", "isCorrect": true },
+            { "id": "c", "textPa": "੩੨ (32)", "isCorrect": false }
+          ],
+          "competencyTag": "FLN_NUMERACY_L2"
+        },
+        {
+          "questionId": "q2",
+          "promptPa": "ਅੰਕ ੭੫ (75) ਵਿੱਚ ਦਹਾਈ ਦਾ ਅੰਕ ਕਿਹੜਾ ਹੈ?",
+          "promptEn": "Which is the tens digit in the number 75?",
+          "voicePromptUrl": "/audio/quizzes/q2-math-c3.mp3",
+          "options": [
+            { "id": "a", "textPa": "੫ (5)", "isCorrect": false },
+            { "id": "b", "textPa": "੭ (7)", "isCorrect": true }
+          ],
+          "competencyTag": "FLN_PLACE_VALUE"
+        }
+      ]
+    },
+    {
+      "id": "quiz-sci-c6-01",
+      "lessonId": "sci-c6-01",
+      "titlePa": "ਪੌਦੇ ਅਤੇ ਭੋਜਨ ਪਰਖ",
+      "titleEn": "Plants and Food Check",
+      "questions": [
+        {
+          "questionId": "q1",
+          "promptPa": "ਪੌਦੇ ਆਪਣਾ ਭੋਜਨ ਕਿਸ ਪ੍ਰਕਿਰਿਆ ਰਾਹੀਂ ਤਿਆਰ ਕਰਦੇ ਹਨ?",
+          "promptEn": "Through which process do plants prepare their own food?",
+          "voicePromptUrl": "/audio/quizzes/q1-sci-c6.mp3",
+          "options": [
+            { "id": "a", "textPa": "ਪ੍ਰਕਾਸ਼ ਸੰਸਲੇਸ਼ਣ (Photosynthesis)", "isCorrect": true },
+            { "id": "b", "textPa": "ਸਾਹ ਕਿਰਿਆ (Respiration)", "isCorrect": false },
+            { "id": "c", "textPa": "ਵਾਸ਼ਪੀਕਰਨ (Evaporation)", "isCorrect": false }
+          ],
+          "competencyTag": "SCI_BOTANY_BASIC"
+        }
+      ]
+    }
+  ]
+}
